@@ -1,0 +1,11 @@
+flask
+requests
+urllib
+urllib3
+json
+flask-wtf
+wtforms
+flask-sqlalchemy
+flask-bcrypt
+flask-login
+PIL
